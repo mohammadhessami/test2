@@ -2,4 +2,7 @@
 
 
 blabla blabla blabla 
+<<<<<<< HEAD
 terminal 
+=======
+ter
