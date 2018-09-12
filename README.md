@@ -2,5 +2,6 @@
 
 
 blabla blabla blabla 
-terminal 
+terminalyadeton bashe maziar sarvaretone va bayad hamishe beesh ehteram bezarid 
 
+            
